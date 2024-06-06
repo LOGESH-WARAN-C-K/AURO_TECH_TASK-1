@@ -1,6 +1,6 @@
 # AURO_TECH_TASK 1
 
-Here's a more detailed `README.md` file for your ATM interface project, covering all aspects thoroughly:
+Here's a more detailed `README.md` file for your ATM interface project, covering all aspects thoroughly :
 
 ```markdown
 # ATM Interface
